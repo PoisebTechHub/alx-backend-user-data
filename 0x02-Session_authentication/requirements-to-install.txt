@@ -1,0 +1,6 @@
+Install the following dependencies for this project if you already don't have them.
+Flask
+Flask-Cors
+Jinja2
+requests
+pycodestyle
